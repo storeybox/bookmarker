@@ -1,0 +1,10 @@
+{
+  "name": "bookmarker",
+  "version": "0.0.1",
+  "description": "cake tutorial",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jeff Storey"
+}
